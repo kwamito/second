@@ -19,4 +19,4 @@ To run this:
  $ pip install flask
 ```
 ### What should be seen in the browser
-![screenshot](https://github.com/kwamito/second/blob/master/flask.jpg.jpg?raw=true)
+![screenshot](https://github.com/kwamito/second/blob/master/flask.jpg?raw=true)
